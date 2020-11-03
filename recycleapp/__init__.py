@@ -1,0 +1,1 @@
+"""The recyleapp component."""
