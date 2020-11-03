@@ -1,0 +1,8 @@
+{
+  "domain": "recycleapp",
+  "name": "recycleapp",
+  "documentation": "https://github.com/mendel129/Unofficial-recycleapp.be-HASS",
+  "codeowners": ["@mendel129"],
+  "dependencies": [],
+  "requirements": []
+}
